@@ -1,10 +1,12 @@
-# Testing task for Cupcakes
+# Basic React setup
 
-React frontend task:
+This is my basic React setup for personal usage. What's inside:
 
-- React with hooks
-- Chakra UI
-- JS/Typescript
+- React
+- Typescript
+- Webpack
+- Babel
+- Sass
 
 ## Starting a dev server
 
