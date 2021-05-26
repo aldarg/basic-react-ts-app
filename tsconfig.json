@@ -19,5 +19,5 @@
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true
   },
-  "exclude": ["node_modules", "public"]
+  "include": ["src/**/*"]
 }
