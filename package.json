@@ -1,7 +1,7 @@
 {
-  "name": "cupcake-frontend-task",
+  "name": "basic-react-app",
   "version": "1.0.0",
-  "description": "Test task for Cupcake Development",
+  "description": "My basic React App with Webpack, TS",
   "private": "true",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack serve",
